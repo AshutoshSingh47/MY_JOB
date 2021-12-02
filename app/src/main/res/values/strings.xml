@@ -1,0 +1,28 @@
+
+    <resources>
+        <string name="empty_list">No tasks available</string>
+        <string name="second_alert">ADD NEW TASK ></string>
+        <string name="app_name">MY JOB</string>
+        <string name="delete_list">Delete To-Do list</string>
+        <string name="bin">Recycler</string>
+        <string name="bin_toolbar">Recycle bin</string>
+        <string name="btn_clear">Clear bin</string>
+        <string name="bin_empty">Bin is empty</string>
+        <string name="restore">Restore task</string>
+        <string name="initial_alert">CLICK + FOR NEW LIST</string>
+        <string name="home">All tasks</string>
+        <string name="start">START</string>
+        <string name="moldnumber">Mold Number</string>
+        <string name="partname">Part Name</string>
+        <string name="operater">Operater</string>
+        <string name="machine">Machine</string>
+        <string name="machinenumber">Machine Number</string>
+        <string name="cont">CONTINUE</string>
+        <string name="stop">STOP</string>
+        <string name="finish">FINISH</string>
+        <string name="addlist">ADD TASK</string>
+
+        <string name="terminat">TERMINAT</string>
+
+
+    </resources>
